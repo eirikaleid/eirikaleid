@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGQGMNlbH0QVA/profile-displaybackgroundimage-shrink_350_1400/0/1676440519365?e=1698278400&v=beta&t=ZLDFl6_kVUhXb8QW8BGiZouxd28Ll4rkYTMABtZF4X8)
+![MasterHead](https://r.resimlink.com/zuviQXRswUY.png)
 <h1 align="center">Hi 👋, I'm Eirik Kaleid</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
