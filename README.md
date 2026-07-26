@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eirikaleid&style=flat-square&color=2EC4B6" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/berkesezen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 - 🔧 Backend developer specializing in **enterprise systems for industrial automation** — production tracking, ERP/MES integrations, and internal tooling
@@ -38,13 +39,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Activity:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eirikaleid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="eirikaleid's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eirikaleid&theme=tokyonight&hide_border=true" alt="eirikaleid's streak stats" height="165" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eirikaleid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=eirikaleid&theme=tokyonight&hide_border=true" alt="eirikaleid's streak stats" height="165" />
 </p>
 
 <p align="center">
