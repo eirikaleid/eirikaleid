@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,55:0F3D3E,100:2EC4B6&text=Eirik%20Kaleid&fontColor=E6EDF3&fontSize=56&fontAlignY=36&desc=Backend%20%26%20Systems%20Developer%20%C2%B7%20Industrial%20Automation&descSize=17&descAlignY=58&animation=fadeIn" alt="Eirik Kaleid" width="100%" />
+<img src="assets/banner.svg" alt="Eirik Kaleid — Backend &amp; Systems Developer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=2EC4B6&center=true&vCenter=true&width=620&lines=Production+tracking+%26+ERP%2FMES+integrations;Relational+schemas+built+for+real+reporting;Workflow+automation+that+connects+systems;Type-safe%2C+boring%2C+reliable+backends" alt="Typing SVG" />
 
